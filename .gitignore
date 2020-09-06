@@ -1,0 +1,11 @@
+client_packages/clientside
+client_packages/html
+packages/server/node_modules
+plugins
+
+client_packages/.listcache 
+bt.dat
+conf.json
+console.log
+pos.log
+server
